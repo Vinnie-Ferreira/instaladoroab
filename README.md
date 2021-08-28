@@ -1,6 +1,6 @@
 # safesign OAB
 
-Arquivo binário .deb para instalação da certificação digital (token GD Buriti) no repositório Debian Bullseye (11) com as dependências corrigidas, de modo que não há a necessidade de instação de nenhuma nenhuma que já não esteja no Debian Bullseye.
+Arquivo binário .deb para instalação da certificação digital (token GD Buriti) no repositório Debian Bullseye (11) com as dependências corrigidas, de modo que não há a necessidade de instação de nenhuma que já não esteja no Debian Bullseye.
 Funciona também da mesma forma em distros baseadas em Debian como Ubuntu e Mint, embora recomendemos fortemente o uso do Debian.
 Instalação de dependencias.
 No terminal, insira o comando:
